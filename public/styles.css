@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: #393b44;
+  color: #fff;
+  margin: 2rem 2rem 0.5rem 2rem;
+  width: 16rem;
+  border-radius: 1rem;
+  text-align: center;
+  display: inline-block;
+}
+
+img {
+  height: 4rem;
+}
+
+p {
+  font-size: 1.7rem;
+}
+
+.search-box {
+  height: 7rem;
+  padding-top: 1rem;
+  font-size: 1.8rem;
+  text-align: center;
+}
+
+input {
+  height: 2rem;
+  width: 20rem;
+}
+
+.symbol {
+  text-transform: uppercase;
+}
